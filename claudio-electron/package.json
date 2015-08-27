@@ -1,0 +1,14 @@
+{
+  "name": "claudio-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Claudio Yacarini",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^0.30.6"
+  }
+}
